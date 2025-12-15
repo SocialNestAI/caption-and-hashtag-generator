@@ -1,14 +1,10 @@
 # AI Caption and Hashtag Generator
 
-> **Part of [Social Nest AI](https://socialnestai.com)** - This feature is available on our platform and open-sourced here for the developer community.
+Generate posts (captions and hashtags) for social media using Gemini API.
+
+This is the open-source version of a feature from [Social Nest AI](https://socialnestai.com), released to help developers or even our  competitors in 'social media management tools' space to quickly integrate AI powered social media post/caption/hashtag generation into their own websites and applications. 
 
 **🚀 Live Demo:** [https://socialnestai.com/tools/ai-caption-generator/](https://socialnestai.com/tools/ai-caption-generator/)
-
-An open-source AI-powered caption and hashtag generator for social media. Built with TypeScript, Next.js 14, and Google's Gemini AI. **This is the open-source version of a feature from [Social Nest AI](https://socialnestai.com)**, released to help developers integrate AI caption generation into their applications.
-
-## About Social Nest AI
-
-This tool is developed and maintained by [Social Nest AI](https://socialnestai.com), an AI-powered social media management platform. **This is the open-source version of our AI Caption Generator feature** that's available on the Social Nest AI platform. We've released this component as open-source to help developers or even competitors in social media management tools space to quickly integrate AI powered social media post/caption/hashtag generation into their own websites and applications. The references to socialnestai.com throughout this codebase are preserved from the original implementation on our platform.
 
 ## Features
 
@@ -180,36 +176,11 @@ import { Footer } from '@socialnest/ai-caption-generator';
 
 ## Supported Platforms
 
-- Facebook
-- Instagram
-- X/Twitter
-- LinkedIn
-- YouTube
-- Google Posts
-- Pinterest
-- TikTok
-- Threads
-- Bluesky
-- Mastodon
+Facebook, Instagram, X/Twitter, LinkedIn, YouTube, Google Posts, Pinterest, TikTok, Threads, Bluesky, Mastodon
 
 ## Available Tones
 
-- Casual
-- Cheeky
-- Cheerful
-- Confident
-- Direct
-- Dry
-- Educational
-- Firm
-- Flowery
-- Formal
-- Frank
-- Friendly
-- Fun
-- Grumpy
-- Helpful
-- Inspirational
+Casual, Cheeky, Cheerful, Confident, Direct, Dry, Educational, Firm, Flowery, Formal, Frank, Friendly, Fun, Grumpy, Helpful, Inspirational
 
 ## Styling
 
@@ -273,16 +244,15 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## License
 
-GNU General Public License v3.0 © [Innovism Enterprises LLP](https://innovism.net)
+GNU General Public License v3.0
 
 This project is licensed under the GNU GPL v3 License - see the [LICENSE](LICENSE) file for details.
 
 ## Attribution
 
-This project is part of [Social Nest AI](https://socialnestai.com), developed by Innovism Enterprises LLP. **This open-source repository contains the same AI caption generation technology used on our live platform.** The references to socialnestai.com throughout this codebase are legitimate attributions to our platform and are not link spam.
+This project is part of [Social Nest AI](https://socialnestai.com), developed by [Krafisol](https://kraftisol.com). The references to socialnestai.com throughout this codebase are legitimate attributions to our platform and are not link spam.
 
 ## Support
 
-- 📧 Email: support@socialnest.ai
+- 📧 Email: support@socialnestai.com
 - 🐛 Issues: [GitHub Issues](https://github.com/socialnest/ai-caption-generator/issues)
-- 📖 Documentation: [Full Docs](https://socialnest.ai/docs)
